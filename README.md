@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm **AbdulRahman Ajidagba**  
+# 👋 Hi, I'm **Abdul-Rahman Ajidagba**  
 
 ### 📊 Data Science and Machine Learning Enthusiast 
 
