@@ -20,19 +20,17 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 ## ✅ Deployed Projects  
 Projects that are live and can be used or tested:  
 
-- [**Project 1 Name**](#) — Short description (e.g., Streamlit app for load prediction).  
-- [**Project 2 Name**](#) — Short description (e.g., Streamlit app for text classification).  
-- [**Project 3 Name**](#) — Short description.  
-
+- [**Project 1 Name**](#)  
+- [**Project 2 Name**](#)   
+- [**Project 3 Name**](#) 
 ---
 
 ## 📝 Projects (in Progress)  
 unfinished projects that showcase my data science workflow:  
 
-- [**Notebook Project 1**](#) — Short description (e.g., EDA and model testing on Kaggle dataset).  
-- [**Notebook Project 2**](#) — Short description.  
-- [**Notebook Project 3**](#) — Short description.  
-
+- [**Energy Consumption forecasting**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
+- [**Notebook Project 2**](#)   
+- [**Notebook Project 3**](#) 
 ---
 
 ## 📫 Connect With Me  
