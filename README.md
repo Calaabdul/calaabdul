@@ -26,7 +26,7 @@ Projects that are live and can be used or tested:
 
 ---
 
-## 📝 Notebook Projects (Work in Progress)  
+## 📝 Projects (in Progress)  
 unfinished projects that showcase my data science workflow:  
 
 - [**Notebook Project 1**](#) — Short description (e.g., EDA and model testing on Kaggle dataset).  
