@@ -6,8 +6,8 @@
 ---
 
 ##  About Me  
-I am passionate about **data science and AI** — from exploring datasets in Jupyter notebooks to building models that solve real-world problems.  
-My focus is on **end-to-end machine learning and AI**: training models, and deploying them so they can be used outside the notebook.  
+I am passionate about **Data Science and AI** — from exploring datasets in Jupyter notebooks to building models that solve real-world problems.  
+My focus is on **End-to-End Machine Learning and AI**: training models, and deploying them so they can be used outside the notebook.  
 
 ---
 
@@ -27,7 +27,7 @@ Projects that are live and can be used or tested:
 ---
 
 ## 📝 Notebook Projects (Work in Progress)  
-Exploratory or unfinished projects that showcase my data science workflow:  
+unfinished projects that showcase my data science workflow:  
 
 - [**Notebook Project 1**](#) — Short description (e.g., EDA and model testing on Kaggle dataset).  
 - [**Notebook Project 2**](#) — Short description.  
