@@ -17,7 +17,7 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 
 ---
 
-## ✅ Deployed Projects  
+## 🚀 Deployed Projects  
 Projects that are live and can be used or tested:  
 
 - [**Project 1 Name**](#)  
