@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm **AbdulRahman Ajidagba**  
 
-### 📊 Data Science and Machine Learning Enthusiast | Turning Data into Insights & Deployed Solutions  
+### 📊 Data Science and Machine Learning Enthusiast 
 
 ---
 
