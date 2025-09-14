@@ -26,7 +26,7 @@ Projects that are live and can be used or tested:
 ---
 
 ## 📝 Projects (in Progress)  
-unfinished projects that showcase my data science workflow:  
+Unfinished projects that showcase my data science workflow:  
 
 - [**Electric Power Load Prediction**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
 - [**Abalone**](#)   
