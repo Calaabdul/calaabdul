@@ -21,7 +21,7 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 Projects that are live and can be used or tested:  
 
 - [**Project 1 Name**](#) — Short description (e.g., Streamlit app for load prediction).  
-- [**Project 2 Name**](#) — Short description (e.g., Flask API for text classification).  
+- [**Project 2 Name**](#) — Short description (e.g., Streamlit app for text classification).  
 - [**Project 3 Name**](#) — Short description.  
 
 ---
