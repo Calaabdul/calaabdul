@@ -6,7 +6,7 @@
 ---
 
 ##  About Me  
-I am passionate about **Data Science and AI** — from exploring datasets in Jupyter notebooks to building models that solve real-world problems.  
+I am passionate about **Data Science and AI** — from exploring datasets to building models that solve real-world problems.  
 My focus is on **End-to-End Machine Learning and AI**: training models, and deploying them so they can be used outside the notebook.  
 
 ---
