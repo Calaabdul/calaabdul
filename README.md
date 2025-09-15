@@ -13,7 +13,7 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 
 ## 🌐 My Portfolio  
 **Check out my full portfolio here:**  
-👉 [**Visit My Portfolio Website**](https://yourportfolio.com)  
+👉 [**Visit My Portfolio Website**](https://calaabdul.github.io/portfolio/)  
 
 ---
 
