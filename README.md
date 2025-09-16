@@ -20,17 +20,17 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 ## 🚀 Deployed Projects  
 Projects that are live and can be used or tested:  
 
-- [**Project 1 Name**](#)  
 - [**Diabetes Prediction**](https://github.com/Calaabdul/Diabetes-app-with-streamlit)   
-- [**Project 3 Name**](#) 
+- [**Abalone**](#https://github.com/Calaabdul/Supervised_ML--Abalone)   
+- [**Compressive Strength**](#https://github.com/Calaabdul/Cement-compressive-strength-prediction) 
 ---
 
 ## 📝 Projects (in Progress)  
 Unfinished projects that showcase my data science workflow:  
 
 - [**Electric Power Load Prediction**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
-- [**Abalone**](#)   
-- [**Compressive Strength**](#) 
+- [**Project Name**](#)
+- [**Project Name**](#)  
 ---
 
 ## 📫 Connect With Me  
