@@ -31,7 +31,7 @@ projects that are yet to be deployed:
 - [**Electric Power Load Prediction**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
 - [**Flower Classification**](https://github.com/Calaabdul/Flower-Classification/blob/main/flower.ipynb)
 - [**Customer Segmentation**](https://github.com/Calaabdul/customer_segmentation/blob/main/Untitled.ipynb)
-- [****]()
+- [**Fake News Classifier**](https://github.com/Calaabdul/Fake-News-Classifier/blob/main/fakenews.ipynb)
 ---
 
 ## 📫 Connect With Me  
