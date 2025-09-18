@@ -30,7 +30,8 @@ projects that are yet to be deployed:
 
 - [**Electric Power Load Prediction**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
 - [**Flower Classification**](https://github.com/Calaabdul/Flower-Classification/blob/main/flower.ipynb)
-- [**Project Name**](#)  
+- [**Customer Segmentation**](https://github.com/Calaabdul/customer_segmentation/blob/main/Untitled.ipynb)
+- [****]()
 ---
 
 ## 📫 Connect With Me  
