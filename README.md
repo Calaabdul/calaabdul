@@ -29,7 +29,7 @@ Projects that are live and can be used or tested:
 projects that are yet to be deployed:  
 
 - [**Electric Power Load Prediction**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
-- [**Project Name**](#)
+- [**Flower Classification**](https://github.com/Calaabdul/Flower-Classification/blob/main/flower.ipynb)
 - [**Project Name**](#)  
 ---
 
