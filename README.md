@@ -21,8 +21,8 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 Projects that are live and can be used or tested:  
 
 - [**Diabetes Prediction**](https://github.com/Calaabdul/Diabetes-app-with-streamlit)   
-- [**Abalone**](https://github.com/Calaabdul/Supervised_ML--Abalone)   
-- [**Compressive Strength**](https://github.com/Calaabdul/Cement-compressive-strength-prediction) 
+- [**Abalone**](https://abalone-age-predictor-z867.onrender.com)
+- [**Compressive Strength**](https://cement-compressive-strength-prediction.onrender.com) 
 ---
 
 ## 📝 Projects (in Progress)  
