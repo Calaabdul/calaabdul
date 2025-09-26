@@ -18,7 +18,7 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 ---
 
 ## 🚀 Deployed Projects  
-Projects that are live and can be used or tested:  
+Some of the Projects that are live and can be used or tested:  
 
 - [**Diabetes Prediction**](https://diabetes-app-with-app-fqfhjjxhqjrymhqzxifnrj.streamlit.app/)   
 - [**Abalone**](https://abalone-age-predictor-z867.onrender.com)
@@ -26,7 +26,7 @@ Projects that are live and can be used or tested:
 ---
 
 ## 📝 Projects (in Progress)  
-projects that are yet to be deployed:  
+Some projects that are yet to be deployed:  
 
 - [**Electric Power Load Prediction**](https://github.com/Calaabdul/Energy-consumption-with-GRU/blob/main/notebook/notebook.ipynb) 
 - [**Flower Classification**](https://github.com/Calaabdul/Flower-Classification/blob/main/flower.ipynb)
