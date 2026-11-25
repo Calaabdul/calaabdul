@@ -20,7 +20,7 @@ My focus is on **End-to-End Machine Learning and AI**: training models, and depl
 ## 🚀 Deployed Projects  
 Some of the Projects that are live and can be used or tested:  
 
-- [**Farm Ledger**](https://farmledger-hn3m.onrender.com/)
+- [**Farm Ledger**](https://farmledger-hn3m.onrender.com/accounts/signup/)
 - [**COVID-19 Mortality Rate**](https://covid-mortality-rate.onrender.com)  
 - [**Abalone Age Prediction**](https://abalone-age-predictor-z867.onrender.com)
 - [**Compressive Strength**](https://cement-compressive-strength-prediction.onrender.com)
