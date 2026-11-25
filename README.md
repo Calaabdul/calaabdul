@@ -6,8 +6,7 @@
 ---
 
 ##  About Me  
-I am passionate about **Data Science and AI** — from exploring datasets to building models that solve real-world problems.  
-My focus is on **End-to-End Machine Learning and AI**: training models, and deploying them so they can be used outside the notebook.  
+I'm a Machine Learning and AI Engineer passionate about using data, machine learning, and artificial intelligence to solve real-world problems and build intelligent solutions. I also work on backend development, building scalable applications and integrating AI models into practical systems. I enjoy building, experimenting with new technologies, and turning ideas into useful products. 
 
 ---
 
